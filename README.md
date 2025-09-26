@@ -29,7 +29,7 @@ Repository structure:
 - `extraccion_datos_final.ipynb` → data extraction and preprocessing  
 - `eda_final.ipynb` → exploratory data analysis  
 - `file` folder → raw and cleaned datasets + `paletacolors.png` & `seal_boton.png` → custom design elements for visualizations
-- `marinedata_presentation.twbx` → Tableau interactive visualizations  
+- `marinedata_presentation.twbx` → Tableau interactive visualizations [https://public.tableau.com/views/marinedata/FunFacts-dash?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
 ---
 
